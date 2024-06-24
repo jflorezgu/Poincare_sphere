@@ -66,7 +66,7 @@ A HWP at 22.5° transforms H into D:
 
 <div align="center">
 
-![HWPat22 5_H](https://github.com/jflorezgu/PoincareSphere/assets/29898626/d089ea8d-ffce-438d-be8a-f99f0c257e78)
+![HWPat22 5_H](https://github.com/jflorezgu/Poincare_sphere/assets/29898626/d035b9de-8da3-44e0-9c5c-33a4391b2587)
 
 </div>
 
@@ -74,7 +74,7 @@ A QWP at 0° transforms R into D:
 
 <div align="center">
 
-![QWPat0_R](https://github.com/jflorezgu/PoincareSphere/assets/29898626/aea7b6fe-0d1d-475f-9d4e-0057f65c47df)
+![QWPat0_R](https://github.com/jflorezgu/Poincare_sphere/assets/29898626/c957e61f-97a6-4ad7-9acb-05fd47acedf0)
 
 </div>
 
