@@ -80,7 +80,11 @@ A QWP at 0° transforms R into D:
 
 ## Suggested exercises
 
-1. Verify that the wave plate angles to produce the orthogonal polarisation vectors – up to a global phase – in a PBS $\to$ QWP $\to$ HWP configuration are:
+1. Verify that a HWP at an angle $\vartheta$ rotates an arbitrary vector in the Poincaré sphere by 180° around an axis on the equator at $2\vartheta$ w.r.t. the "H" axis.
+
+2. Verify that a QWP at an angle $\vartheta$ rotates an arbitrary vector in the Poincaré sphere by 90° around an axis on the equator at $2\vartheta$ w.r.t. the "H" axis following the left-hand rule (palm pointing towards the initial vector, thumb parallel to the QWP rotation axis).
+
+3. Verify that the wave plate angles to produce the orthogonal polarisation vectors – up to a global phase – in a PBS $\to$ QWP $\to$ HWP configuration are:
 
 <div align="center">
 
@@ -95,7 +99,7 @@ A QWP at 0° transforms R into D:
 
 </div>
 
-2. Verify that the wave plate angles to project the orthogonal polarisation vectors onto the transmission port of a PBS in a QWP $\to$ HWP $\to$ PBS configuration are:
+4. Verify that the wave plate angles to project the orthogonal polarisation vectors onto the transmission port of a PBS in a QWP $\to$ HWP $\to$ PBS configuration are:
 
 <div align="center">
 
